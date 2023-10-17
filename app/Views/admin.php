@@ -21,7 +21,7 @@
             text-align: center;
         }
 
-        /* Style for centered form elements */
+   
         .form-group {
             text-align: center;
             margin: 10px 0;
