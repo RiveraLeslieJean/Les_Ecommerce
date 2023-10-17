@@ -1,0 +1,833 @@
+CRITICAL - 2023-10-06 07:06:57 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:06:59 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:11:34 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:33:47 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:34:56 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:35:58 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:37:15 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:38:30 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 270.
+ 1 APPPATH\Views\admin.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 270)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:42:57 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:42:58 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:42:58 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:42:58 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:10 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:10 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:10 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:10 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:11 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:44:11 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 262.
+ 1 APPPATH\Views\admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 262)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:49:04 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:50:57 --> Undefined variable $book
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $book', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:51:23 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:12 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:13 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:13 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:13 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:14 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:14 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:14 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:14 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:15 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:52:15 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:29 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:30 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:30 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:30 --> Undefined variable $items
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $items', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:38 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:56:38 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:57:06 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:57:06 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 07:57:06 --> Undefined variable $booktable
+in APPPATH\Views\admin.php on line 263.
+ 1 APPPATH\Views\admin.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $booktable', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\admin.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 5 APPPATH\Controllers\Admin.php(14): view('admin')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 08:40:10 --> Undefined array key "description"
+in APPPATH\Views\index.php on line 99.
+ 1 APPPATH\Views\index.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "description"', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\index.php', 99)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\BookController.php(33): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\BookController->home()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 08:42:17 --> Undefined array key "description"
+in APPPATH\Views\index.php on line 99.
+ 1 APPPATH\Views\index.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "description"', 'C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\index.php', 99)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\BookController.php(33): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\BookController->home()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\user\\OneDrive\\Desktop\\ITC311_LAB3\\public\\index.php')
+CRITICAL - 2023-10-06 14:15:05 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:13 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:14 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:14 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:15 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:15 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:15 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:16 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:17:16 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:20:19 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:16 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:23 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:24 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:30 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:41 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:23:43 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:25 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:26 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:26 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:27 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:38 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:25:39 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:28:47 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:28:48 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:10 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:11 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:11 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:12 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:12 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:12 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:12 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:15 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:31:15 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:46:01 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:41 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:41 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:41 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:42 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:42 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:42 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:46 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\MainController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:47 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:51:48 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:54:27 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:54:28 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:54:28 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-06 14:54:28 --> Class "App\Models\PetModel" not found
+in APPPATH\Controllers\PetController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\PetController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Les_Ecommerce\\public\\index.php')
